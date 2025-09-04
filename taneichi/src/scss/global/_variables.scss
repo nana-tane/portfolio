@@ -1,0 +1,20 @@
+// ブレークポイント
+$breakpoints: (
+  'sm': 390px,
+  'md': 768px,
+  'lg': 1024px,
+  'xl': 1280px
+);
+
+// カラー
+$bg-black: #1e1e1e;
+$bg-beige: #f1f1f1;
+$bg-ivory: #E8E8E8;
+$bg-ivory02: #dbdcdb5e;
+$text-black: #1e1e1e;
+$accent-green: #183828;
+
+// フォント
+$noto: "Noto Sans", sans-serif;
+$ibm: "ibm-plex-sans", sans-serif;
+$ibm-condensed: "ibm-plex-sans-condensed", sans-serif;
